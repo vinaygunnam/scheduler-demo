@@ -1,0 +1,700 @@
+[
+  {
+    "endText": "August 01 2015, 3:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438441200,
+    "duration": 10800,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "valet"
+    ],
+    "guid": "d9f24343-5b73-490b-9024-1f8eb781d1a2"
+  },
+  {
+    "endText": "August 01 2015, 5:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438448400,
+    "duration": 7200,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor",
+      "technician"
+    ],
+    "guid": "1d6e7d65-1c6e-4beb-bd7d-1b88fa73ddd0"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 2:00 pm",
+    "end": 1438444800,
+    "duration": 7200,
+    "start": 1438437600,
+    "_hrs": 6,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "b9b2fce2-c9bb-4002-b23f-b8080ed27bd8"
+  },
+  {
+    "endText": "August 01 2015, 10:00 am",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438423200,
+    "duration": 3600,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "b0d31bba-9fe2-4af7-9481-751390077659"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438444800,
+    "duration": 3600,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "86c93e7a-70d5-4f29-bb4a-6d8a08beded1"
+  },
+  {
+    "endText": "August 01 2015, 2:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438437600,
+    "duration": 7200,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "valet"
+    ],
+    "guid": "5b79cea0-958b-46e3-bb00-ae3d88dc513c"
+  },
+  {
+    "endText": "August 01 2015, 11:00 am",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438426800,
+    "duration": 3600,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "e70a3f5d-f0ea-45ad-91e8-8bb3ac9a77ca"
+  },
+  {
+    "endText": "August 01 2015, 7:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438455600,
+    "duration": 10800,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "valet"
+    ],
+    "guid": "7b503b2f-2a0e-45b0-a963-a5e6e56f3d83"
+  },
+  {
+    "endText": "August 01 2015, 3:00 pm",
+    "startText": "August 01 2015, 2:00 pm",
+    "end": 1438441200,
+    "duration": 3600,
+    "start": 1438437600,
+    "_hrs": 6,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "21b0bbc9-71bb-4c57-9c68-b475e6d6b497"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438434000,
+    "duration": 3600,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "188c5146-5865-4145-96c6-cdd6a2cf9ef8"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438444800,
+    "duration": 3600,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor"
+    ],
+    "guid": "a01c22a1-1814-43d1-babb-7baf75b5413a"
+  },
+  {
+    "endText": "August 01 2015, 10:00 am",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438423200,
+    "duration": 3600,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "f11941bd-c890-448f-9e8a-e458a9b04001"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "valet"
+    ],
+    "guid": "589e3953-90ee-470b-be81-6c8901fdbf7d"
+  },
+  {
+    "endText": "August 01 2015, 3:00 pm",
+    "startText": "August 01 2015, 2:00 pm",
+    "end": 1438441200,
+    "duration": 3600,
+    "start": 1438437600,
+    "_hrs": 6,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor",
+      "technician"
+    ],
+    "guid": "f7c36387-ac32-409c-806f-53bc2c17ed68"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438430400,
+    "duration": 10800,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "manager"
+    ],
+    "guid": "8b77debe-72db-48a0-b255-0dc975b282e2"
+  },
+  {
+    "endText": "August 01 2015, 6:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438452000,
+    "duration": 7200,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "08eacc6f-617b-40c1-9dcd-eecf13054f66"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "6cb951a9-1ad3-4594-a9e9-58d0d241488a"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor"
+    ],
+    "guid": "49bc0805-3756-4409-93b7-1355fa48d254"
+  },
+  {
+    "endText": "August 01 2015, 11:00 am",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438426800,
+    "duration": 3600,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "7204df2f-2adf-4fea-b2f0-5bc8405009ce"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438434000,
+    "duration": 10800,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "ba10058e-b88a-4298-88b0-dd1d29b0c2a0"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 1:00 pm",
+    "end": 1438444800,
+    "duration": 10800,
+    "start": 1438434000,
+    "_hrs": 5,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor",
+      "valet"
+    ],
+    "guid": "e583e362-1a60-43c5-8bd2-858fcc4e271f"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438430400,
+    "duration": 7200,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "4323cba0-d1bc-4c6a-8073-db6537eb1b41"
+  },
+  {
+    "endText": "August 01 2015, 10:00 am",
+    "startText": "August 01 2015, 8:00 am",
+    "end": 1438423200,
+    "duration": 7200,
+    "start": 1438416000,
+    "_hrs": 0,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "08957aba-3644-4acd-b3fe-00d3ee3b90b2"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438444800,
+    "duration": 3600,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "f7d73579-b98a-4a37-b841-f30567fba544"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438434000,
+    "duration": 10800,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "eae3eadf-a1d8-48e7-bd82-aa5683d3ad43"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 2:00 pm",
+    "end": 1438444800,
+    "duration": 7200,
+    "start": 1438437600,
+    "_hrs": 6,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "49955bb4-4661-4631-9039-8ef7d5715bf3"
+  },
+  {
+    "endText": "August 01 2015, 2:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438437600,
+    "duration": 7200,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "9a53628e-aa29-488f-bc2c-53e2bfe517b8"
+  },
+  {
+    "endText": "August 01 2015, 2:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438437600,
+    "duration": 7200,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "manager"
+    ],
+    "guid": "a437bd8c-a7d3-4945-ad6d-a485c2331b19"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "3a5260ac-c462-414d-9eb4-bd2b884e3926"
+  },
+  {
+    "endText": "August 01 2015, 10:00 am",
+    "startText": "August 01 2015, 8:00 am",
+    "end": 1438423200,
+    "duration": 7200,
+    "start": 1438416000,
+    "_hrs": 0,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor"
+    ],
+    "guid": "96c9bbad-f60a-4edd-a9d1-19ac515c837a"
+  },
+  {
+    "endText": "August 01 2015, 6:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438452000,
+    "duration": 10800,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "8b6da2d9-4900-4409-8038-b339877b532b"
+  },
+  {
+    "endText": "August 01 2015, 11:00 am",
+    "startText": "August 01 2015, 8:00 am",
+    "end": 1438426800,
+    "duration": 10800,
+    "start": 1438416000,
+    "_hrs": 0,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "3edb2a20-e229-4e3d-b80f-5b0f052c2d5c"
+  },
+  {
+    "endText": "August 01 2015, 11:00 am",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438426800,
+    "duration": 7200,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "5342539d-507d-45fc-b5cd-429635116817"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 1:00 pm",
+    "end": 1438444800,
+    "duration": 10800,
+    "start": 1438434000,
+    "_hrs": 5,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "db473591-dfeb-44d7-97fd-fb129274e47d"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438444800,
+    "duration": 3600,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor"
+    ],
+    "guid": "98b923e2-0049-426c-8e07-e734ebb440e9"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438430400,
+    "duration": 10800,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "eafc6cef-5976-486a-bc91-0d0f2e19e5a8"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 12:00 pm",
+    "end": 1438434000,
+    "duration": 3600,
+    "start": 1438430400,
+    "_hrs": 4,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor"
+    ],
+    "guid": "e9b583b3-bf53-4580-938b-1b6e4bf717e3"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 10:00 am",
+    "end": 1438434000,
+    "duration": 10800,
+    "start": 1438423200,
+    "_hrs": 2,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor"
+    ],
+    "guid": "8889f144-39e1-4a79-b252-5cca603f532c"
+  },
+  {
+    "endText": "August 01 2015, 7:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438455600,
+    "duration": 10800,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "4ca76793-2cbc-466c-bf5c-06ffbcb06643"
+  },
+  {
+    "endText": "August 01 2015, 4:00 pm",
+    "startText": "August 01 2015, 1:00 pm",
+    "end": 1438444800,
+    "duration": 10800,
+    "start": 1438434000,
+    "_hrs": 5,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "valet"
+    ],
+    "guid": "e0078452-fda1-400a-a72f-f8a76726947f"
+  },
+  {
+    "endText": "August 01 2015, 10:00 am",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438423200,
+    "duration": 3600,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "3df95892-fc16-4ae7-a50f-c3e869f04cd8"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "b0fee133-01c5-4424-8358-3774a10c07f0"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438430400,
+    "duration": 10800,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "c0457319-0e5a-439e-8ac2-3886ba0c8e22"
+  },
+  {
+    "endText": "August 01 2015, 7:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438455600,
+    "duration": 10800,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "cacd9d88-8970-4af4-871f-b8074dc55710"
+  },
+  {
+    "endText": "August 01 2015, 1:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438434000,
+    "duration": 7200,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "manager",
+      "advisor"
+    ],
+    "guid": "0de819e9-908f-4b49-b70d-40b47be77983"
+  },
+  {
+    "endText": "August 01 2015, 7:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438455600,
+    "duration": 10800,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "advisor",
+      "technician"
+    ],
+    "guid": "14628aa6-b016-4366-9c45-295ca1cce19d"
+  },
+  {
+    "endText": "August 01 2015, 7:00 pm",
+    "startText": "August 01 2015, 4:00 pm",
+    "end": 1438455600,
+    "duration": 10800,
+    "start": 1438444800,
+    "_hrs": 8,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician"
+    ],
+    "guid": "714368e0-ae55-4664-b46c-76cdaccfd49b"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 11:00 am",
+    "end": 1438430400,
+    "duration": 3600,
+    "start": 1438426800,
+    "_hrs": 3,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "f64c0920-7db4-404e-9812-a43dbc62f3a9"
+  },
+  {
+    "endText": "August 01 2015, 6:00 pm",
+    "startText": "August 01 2015, 3:00 pm",
+    "end": 1438452000,
+    "duration": 10800,
+    "start": 1438441200,
+    "_hrs": 7,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "technician",
+      "advisor",
+      "valet",
+      "manager"
+    ],
+    "guid": "80713c0c-9465-41d4-a649-aa0eafc53130"
+  },
+  {
+    "endText": "August 01 2015, 12:00 pm",
+    "startText": "August 01 2015, 9:00 am",
+    "end": 1438430400,
+    "duration": 10800,
+    "start": 1438419600,
+    "_hrs": 1,
+    "_date": "Sat Aug 01 2015 08:00:00 GMT+0000",
+    "roles": [
+      "valet",
+      "technician"
+    ],
+    "guid": "999c1a1a-c783-4939-a37c-90d1a7b4f6f2"
+  }
+]
